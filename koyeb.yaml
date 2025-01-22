@@ -1,6 +1,6 @@
 name: Shaban-sobx-md
 services:
-  - name: malvin-xmd-service
+  - name: mvelase-md-service
     type: web
     ports:
       - 5000
