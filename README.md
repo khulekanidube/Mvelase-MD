@@ -29,7 +29,7 @@ Mvelase-MD is a versatile Multi-Device WhatsApp bot developed by [𝑲𝒉𝒖�
 ![Bot Repository License](https://img.shields.io/github/license/khulekanidube/Mvelase-MD?style=for-the-badge)
 
 ####  
-𝑴𝒗𝒆𝒍𝒂𝒔𝒆 𝑴𝑫 - A Advanced Multi Device whatsapp bot CREATED by [𝑲𝒉𝒖𝒍𝒆𝒌𝒂𝒏𝒊 𝑫𝒖𝒃𝒆]
+𝑴𝒗𝒆𝒍𝒂𝒔𝒆 𝑴𝑫 - A Advanced Multi Device whatsapp bot CREATED by 𝑲𝒉𝒖𝒍𝒆𝒌𝒂𝒏𝒊 𝑫𝒖𝒃𝒆
 
 ***
 
