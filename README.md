@@ -142,7 +142,7 @@ NOW Deploy👇
 
 
 ## `OWNER` 
-<a href="https://github.com/khulekanidube"><img src="https://github.com/MVELASEMD.png" width="250" height="250" alt="Khulekani Dube"/></a>
+<a href="https://github.com/khulekanidube"><img src="https://files.catbox.moe/7a63r4.png" width="250" height="250" alt="Khulekani Dube"/></a>
   
 **Mvelase-MD** - By `Khulekani Dube`
 <br>
