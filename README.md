@@ -123,7 +123,7 @@ Thanks to all contributors! 🚀
 
 #### DEPLOY TO HOST.TALKDROVE
 
-[`TalkDrove`](https://talkdrove.com)
+[`TalkDrove`](https://host.talkdrove.com/)
 
 
 
