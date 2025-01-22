@@ -135,7 +135,7 @@ NOW Deploy👇
 <br>
 ## DEPLOY IN KOYEB  
 
-[![Deploy on Koyeb](https://app.koyeb.com/services/new?service_type=web&step=review&type=git&repository=github.com%2Fkhulekanidube%Mvelase-MD&instance_type=free&regions=fra)
+[![Deploy on Koyeb](https://app.koyeb.com/services/deploy?type=git&repository=Khulekanidube/Mvelase-MD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20Mvelase-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false)
 <br>
 <p> AFTER CLICKING ON THE KOYEB BUTTON KINDLY CLICK ON VARIABLE AND ADD THE NECESSARY VARIABLE</p>
 
