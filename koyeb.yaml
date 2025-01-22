@@ -1,4 +1,4 @@
-name: mvelasemd
+name: mvelase-md
 services:
   - name: mvelase-md-service
     type: web
