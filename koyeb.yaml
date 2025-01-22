@@ -1,0 +1,14 @@
+name: mvelasemd
+services:
+  - name: mvelase-md-service
+    type: web
+    ports:
+      - 3000
+    routes:
+      - path: "/"
+    build:
+      type: docker
+      dockerfile: ./Dockerfile
+    regions:
+      - fra
+      - sin
