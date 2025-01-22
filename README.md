@@ -14,7 +14,7 @@
 [![XLICON](https://files.catbox.moe/7a63r4.png)]
 
 ### ℹ️ **About MVELASE-MD**
-XLICON-V2 is a versatile Multi-Device WhatsApp bot developed by [Khulekani Dube](https://github.com/khulekanidube). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
+Mvelase-MD is a versatile Multi-Device WhatsApp bot developed by [Khulekani Dube](https://github.com/khulekanidube). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/{MVELASE-MD}/count.svg" alt="KHULEKANI DUBE :: Visitor's Count" /></p>
 
