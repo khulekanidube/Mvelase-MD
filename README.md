@@ -29,7 +29,7 @@ XLICON-V2 is a versatile Multi-Device WhatsApp bot developed by [Khulekani Dube]
 ![Bot Repository License](https://img.shields.io/github/license/khulekanidube/Mvelase-MD?style=for-the-badge)
 
 ####  
-*MVELASE-MD* - A Advanced Multi Device whatsapp bot CREATED by *Khulekanidube*
+*𝗠𝗩𝗘𝗟𝗔𝗦𝗘-𝗠𝗗* - A Advanced Multi Device whatsapp bot CREATED by 𝗞𝗵𝘂𝗹𝗲𝗸𝗮𝗻𝗶 𝗗𝘂𝗯𝗲
 
 ***
 
