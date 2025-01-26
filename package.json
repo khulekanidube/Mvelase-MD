@@ -4,7 +4,7 @@
   "description": "THE BEST BOT IN THE WORD",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Momo-md",
+    "start": "pm2 start index.js --deep-monitoring --attach --name Mvelase-MD",
     "stop": "pm2 stop Mvelase-MD",
     "restart": "pm2 restart Mvelase-MD"
   },
