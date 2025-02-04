@@ -13,7 +13,7 @@
 ## 🌟 `Bot Intro and Features`
 ![MVELASE](https://files.catbox.moe/sg2hra.png)
 
-### ⌛️***𝑨𝒃𝒐𝒖𝒕 𝑴𝒗𝒆𝒍𝒂𝒔𝒆 𝑴𝑫***
+### ℹ️**𝖺𝖻𝗈𝗎𝗍 𝖬𝗏𝖾𝗅𝖺𝗌𝖾 𝖬𝖣**
 Mvelase-MD is a versatile Multi-Device WhatsApp bot developed by [𝑲𝒉𝒖𝒍𝒆𝒌𝒂𝒏𝒊 𝑫𝒖𝒃𝒆](https://github.com/khulekanidube). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/{MVELASE-MD}/count.svg" alt="KHULEKANI DUBE :: Visitor's Count" /></p>
