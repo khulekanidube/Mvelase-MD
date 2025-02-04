@@ -15,7 +15,6 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "PUT YOUR SESSION ID HERE",
 CAPTION: process.env.CAPTION || "*ᴍᴠᴇʟᴀsᴇ ᴍᴅ ᴛᴇᴄʜɴᴏʟᴏɢʏ*",
-AUTO_STATUS_MSG: process.env AUTO_STATUS_MSG || "*𝖸𝖮𝖴𝖱 𝖲𝖳𝖠𝖳𝖴𝖲 𝖧𝖠𝖲 𝖡𝖤𝖤𝖭 𝖲𝖤𝖤𝖭⟝⟉⟞𝖬𝗏𝖾𝗅𝖺𝗌𝖾 𝖬𝖣 𝖳𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗒*"
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
 AUTO_VOICE: process.env.AUTO_VOICE || "false",
@@ -25,8 +24,8 @@ ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/sg2hra.png",
 ALIVE_MSG: process.env.ALIVE_MSG || "𝑴𝑽𝑬𝑳𝑨𝑺𝑬-𝑴𝑫 𝑰𝑺 𝑨𝑳𝑰𝑽𝑬 𝑨𝑵𝑫 𝑭𝑶𝑹𝑬𝑽𝑬𝑹.",
 ANTI_LINK: process.env.ANTI_LINK || "true",
 ANTI_BAD: process.env.ANTI_BAD || "true",
-OWNER_NAME: process.env.OWNER_NAME || "Khulekani Dube"
-OWNER_NUMBER: process.env.OWNER_NUMBER || "263711337094"
+OWNER_NAME: process.env.OWNER_NAME || "Khulekani Dube",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "263711337094",
 PREFIX: process.env.PREFIX || ".",
 FAKE_RECORDING: process.env.FAKE_RECORDING || "true",
 FAKE_TYPING: process.env.FAKE_TYPING || "true",
