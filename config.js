@@ -35,5 +35,6 @@ AUTO_REACT: process.env.AUTO_REACT || "false",
 HEART_REACT: process.env.HEART_REACT || "false",
 OWNER_REACT: process.env.OWNER_REACT || "false",
 BOT_NAME: process.env.BOT_NAME || "𝖬𝗏𝖾𝗅𝖺𝗌𝖾 𝖬𝖣",
+AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "`*𝖲𝗍𝖺𝗍𝗎𝗌 𝗌𝖾𝖾𝗇 𝖻𝗒 𝗆𝗏𝖾𝗅𝖺𝗌𝖾 𝗆𝖽 𝗍𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗒*`",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
