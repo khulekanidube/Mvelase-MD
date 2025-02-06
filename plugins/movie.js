@@ -51,11 +51,13 @@ cmd({
 *📍𝑰𝑴𝑫𝑩:* ${data.imdbRating}
 `;
 
+        conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/pw3dp0.png` }, caption: up })
+
         const imageUrl = data.Poster && data.Poster !== 'N/A' ? data.Poster : config.ALIVE_IMG;
 
         await conn.sendMessage(from, {
             image: { url: imageUrl },
-            caption: `${movieInfo}\n> UMAR`
+            caption: `${movieInfo}\n> 𝖬𝗏𝖾𝗅𝖺𝗌𝖾 𝖬𝖣 𝖳𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗒`
         }, { quoted: mek });
     } catch (e) {
         console.error(e);
