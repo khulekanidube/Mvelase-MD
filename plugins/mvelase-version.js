@@ -53,9 +53,9 @@ cmd({
 
     let message = '';
     if (currentVersion === latestVersion) {
-      message = `*Mvelase MD bot is up-to-date! 😊\n Current version is: ${currentVersion}*`;
+      message = `*𝖬𝗏𝖾𝗅𝖺𝗌𝖾 𝖬𝖣 𝖻𝗈𝗍 𝗂𝗌 𝗎𝗉-𝗍𝗈-𝖽𝖺𝗍𝖾! ⚙️n Current version is: ${currentVersion}*`;
     } else {
-      message = `*Mvelase MD bot is outdated 😵!\n\n  Current version: ${currentVersion} \n Latest version: ${latestVersion}*`;
+      message = `*𝖬𝗏𝖾𝗅𝖺𝗌𝖾 𝖬𝖣 𝖻𝗈𝗍 𝗂𝗌 𝗈𝗎𝗍-𝖽𝖺𝗍𝖾𝖽! ⚙️!\n\n  Current version: ${currentVersion} \n Latest version: ${latestVersion}*`;
     }
 
    // await reply(message);
