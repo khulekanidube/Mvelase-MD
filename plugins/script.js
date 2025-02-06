@@ -35,6 +35,10 @@ let repo =`
 
  *𝖬𝗏𝖾𝗅𝖺𝗌𝖾 𝖬𝖣 𝖳𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗒*
 `
+
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/pw3dp0.png` }, caption: up })
+
+    
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
     mentionedJid: [ '' ],
@@ -51,8 +55,6 @@ title: '𝑴𝒗𝒆𝒍𝒂𝒔𝒆 𝑴𝑫 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐�
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/khulekanidube/Mvelase-MD" ,
-thumbnailUrl: "https://files.catbox.moe/sg2hra.png" ,
-renderLargerThumbnail: true,
 showAdAttribution: true
 }
 }}, { quoted: mek})}catch(e){
