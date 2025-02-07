@@ -39,7 +39,7 @@ const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
 fs.writeFile(__dirname + '/session/creds.json', data, () => {
-console.log("SESSION DOWNLOADED COMPLETED ✅")
+console.log("𝖲𝖾𝗌𝗌𝗂𝗈𝗇 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽𝖾𝖽 𝖲𝗎𝖼𝖼𝖾𝗌𝗌𝖿𝗎𝗅𝗅𝗒 ✅")
 })})}
 
 const express = require("express");
@@ -87,9 +87,9 @@ let up = ` *𝗠𝘃𝗲𝗹𝗮𝘀𝗲 𝗠𝗗 Connected Successfully!!!!!!* 
 
 *⚙️ 𝖮𝗐𝗇𝖾𝗋:* wa.me/263711337094
 
-*⚙️ 𝖬𝖤𝖬𝖣 𝖳𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗒 𝖢𝗁𝖺𝗇𝗇𝖾𝗅💗* 
+*⚙️ 𝖬𝖤𝖬𝖣 𝖳𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗒 𝖢𝗁𝖺𝗇𝗇𝖾𝗅* 
 
-- : https://whatsapp.com/channel/0029VajdbH511ulTyGysZq17
+https://whatsapp.com/channel/0029VajdbH511ulTyGysZq17
 
 *©𝖬𝗏𝖾𝗅𝖺𝗌𝖾 𝖬𝖣 𝖳𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗒*`;
 conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/pw3dp0.png` }, caption: up })
